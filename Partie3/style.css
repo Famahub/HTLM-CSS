@@ -1,0 +1,27 @@
+.identité{
+    background-color: dodgerblue;
+    
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+    flex-direction: row;
+}
+
+.adresse{
+    background-color: blueviolet;
+}
+
+.reglement{
+    background-color: crimson;
+}
+
+input{
+    width:50%;
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
